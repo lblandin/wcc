@@ -1,0 +1,12 @@
+.btn-subscribe {
+    background-color: #4a5f43;
+    border: none;
+    color: #fff;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: inherit;
+    border-radius: 25px;
+    font-family: inherit;
+}
