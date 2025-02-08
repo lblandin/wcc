@@ -8,3 +8,8 @@ body {
     font-weight: 500;
     font-style: normal;
 }
+
+html {
+    height: 100%;
+    margin: 0 !important;
+}

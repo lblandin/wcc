@@ -1,0 +1,23 @@
+.btn-subscribe,
+#email {
+    background-color: #4a5f43;
+    border: none;
+    color: #fff;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: inherit;
+    font-family: inherit;
+}
+
+.btn-subscribe {
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+#email {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    width: 200px;
+}
