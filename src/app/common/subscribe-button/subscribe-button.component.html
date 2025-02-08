@@ -1,0 +1,4 @@
+<form [formGroup]="subscribeForm" (ngSubmit)="onSubmit()">
+    <input pattern=".+@example\.com" size="50" id="email" type="email" placeholder="Enter your email" formControlName="email"  required>
+    <button class="btn-subscribe" type="submit">Subscribe</button>
+</form>
