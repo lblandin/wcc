@@ -1,0 +1,14 @@
+.faq-container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+    h1 {
+        text-align: center;
+        color: #fff;
+    }
+}
+
+mat-expansion-panel {
+    margin-bottom: 30px;
+}
